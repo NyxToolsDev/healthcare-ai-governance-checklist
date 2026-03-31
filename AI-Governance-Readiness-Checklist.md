@@ -109,13 +109,15 @@ Score each item: **Yes** (in place), **Partial** (started but incomplete), or **
 
 | # | Item | Yes | Partial | No |
 |---|------|:---:|:-------:|:--:|
-| 7.1 | You are tracking the Colorado AI Act (SB 24-205, effective Feb 2026) | | | |
-| 7.2 | You are aware of the HIPAA Security Rule update timeline (2025-2026) | | | |
+| 7.1 | You are tracking the Colorado AI Act (SB 24-205, enforcement June 30, 2026) and the proposed replacement bill | | | |
+| 7.2 | You are aware of the HIPAA Security Rule update timeline (2026) | | | |
 | 7.3 | You understand whether the EU AI Act applies to your organization | | | |
 | 7.4 | You have assessed whether any current AI tools qualify as "high-risk" under emerging regulations | | | |
 | 7.5 | Legal counsel has reviewed your AI governance program for regulatory alignment | | | |
+| 7.6 | You have a plan for BOTH Colorado AI Act outcomes (original act stands OR replacement bill passes) | | | |
+| 7.7 | You are tracking the HHS AI governance reorganization (March 2026) as a model for your own structure | | | |
 
-**Why this matters:** Three major regulatory frameworks are converging in 2025-2026. Organizations that build governance now are preparing. Organizations that wait are scrambling.
+**Why this matters:** The Colorado AI Act faces a potential repeal-and-replace — but the transparency requirements survive either outcome, and HIPAA, Joint Commission, and malpractice liability don't care which version passes. Organizations that build governance for both scenarios are prepared. Organizations betting on one outcome are gambling.
 
 ---
 
@@ -129,16 +131,16 @@ Score each item: **Yes** (in place), **Partial** (started but incomplete), or **
 | 4. Training and Awareness | 6 | | | |
 | 5. Shadow AI and Monitoring | 5 | | | |
 | 6. Incident Response | 5 | | | |
-| 7. Regulatory Awareness | 5 | | | |
-| **Total** | **40** | | | |
+| 7. Regulatory Awareness | 7 | | | |
+| **Total** | **42** | | | |
 
 ### Your Readiness Level
 
 | Score | Level | What It Means |
 |-------|-------|---------------|
-| 32-40 Yes | **Advanced** | Strong foundation. Close remaining gaps and maintain. |
-| 20-31 Yes | **Developing** | Good start, but critical gaps exist. Prioritize Sections 2 and 6. |
-| 10-19 Yes | **Early Stage** | Significant work needed. Start with policy (Section 1) and PHI protections (Section 2). |
+| 34-42 Yes | **Advanced** | Strong foundation. Close remaining gaps and maintain. |
+| 21-33 Yes | **Developing** | Good start, but critical gaps exist. Prioritize Sections 2 and 6. |
+| 10-20 Yes | **Early Stage** | Significant work needed. Start with policy (Section 1) and PHI protections (Section 2). |
 | 0-9 Yes | **Pre-Governance** | Your organization needs a governance program before expanding AI use. |
 
 ---
@@ -151,7 +153,7 @@ This checklist tells you where you stand. Closing the gaps requires:
 - **A structured implementation guide** with week-by-week rollout steps
 - **A vendor evaluation scorecard** with weighted criteria and automatic disqualifiers
 
-The **Healthcare AI Governance Kit** from NyxTools includes all of these — 8 templates built by a healthcare IT professional with 19 years of experience, designed for organizations navigating AI adoption under HIPAA.
+The **Healthcare AI Governance Kit** from NyxTools includes all of these — 11 templates built by a healthcare IT professional with 19 years of experience, designed for organizations navigating AI adoption under HIPAA. Includes Colorado AI Act scenario planning for both legislative outcomes, a maturity model self-assessment, and a governance org chart based on the March 2026 HHS reorganization.
 
 Learn more: [NyxTools on Gumroad](https://nyxtools.gumroad.com)
 

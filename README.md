@@ -1,6 +1,6 @@
 # Healthcare AI Governance Readiness Checklist
 
-A 40-item self-assessment to find out whether your healthcare organization is ready to govern AI tools under HIPAA, the Colorado AI Act, and emerging federal requirements.
+A 42-item self-assessment to find out whether your healthcare organization is ready to govern AI tools under HIPAA, the Colorado AI Act (both legislative scenarios), and emerging federal requirements.
 
 ## What This Is
 
@@ -32,20 +32,23 @@ Score yourself Yes / Partial / No on each item. Takes about 20 minutes. You'll k
 
 ## Why This Exists
 
-58% of healthcare organizations using AI tools have no formal governance policy. Three major regulatory frameworks are converging in 2025-2026. This checklist won't solve governance for you, but it'll show you exactly where you need to focus.
+58% of healthcare organizations using AI tools have no formal governance policy. The Colorado AI Act enforcement date is June 30, 2026 — but a replacement bill may change the requirements. HIPAA Security Rule updates are expected in 2026. This checklist won't solve governance for you, but it'll show you exactly where you need to focus.
 
 ## Need the Full Governance Program?
 
-The **[Healthcare AI Governance Kit](https://nyxtools.gumroad.com)** includes 8 customizable templates:
+The **[Healthcare AI Governance Kit](https://nyxtools.gumroad.com)** includes 11 customizable templates:
 
 - AI Acceptable Use Policy
 - HIPAA Prompt Safety Guidelines
-- AI Vendor Evaluation Scorecard (weighted scoring, 45+ criteria, automatic disqualifiers)
+- AI Vendor Evaluation Scorecard (weighted scoring, 25+ criteria, automatic disqualifiers)
 - AI Incident Response Template
 - Board Presentation: AI Strategy
 - Implementation Quick-Start Guide (week-by-week rollout)
 - AI Training Curriculum Outline
 - MCP Server Readiness Assessment
+- **Colorado AI Act Scenario-Planning Module** — covers both legislative outcomes
+- **HAIRA Maturity Model Alignment Guide** — self-assess across 7 domains, 5 levels
+- **HHS Governance Reorganization Reference** — model org charts for health systems
 
 Built by a healthcare IT professional with 19 years of experience.
 
