@@ -1,6 +1,6 @@
 # Healthcare AI Governance Readiness Checklist
 
-**A free resource from NyxTools by LEW Enterprises LLC**
+**A free resource from NyxTools by NyxTools**
 
 Use this checklist to assess whether your healthcare organization is ready to govern AI tools safely and compliantly. Work through each section honestly — the goal is to identify gaps before regulators, auditors, or a breach does it for you.
 
@@ -159,4 +159,4 @@ Learn more: [NyxTools on Gumroad](https://nyxtools.gumroad.com)
 
 ---
 
-*Copyright 2026 NyxTools, LEW Enterprises LLC. This checklist is free to use and distribute with attribution.*
+*Copyright 2026 NyxTools. This checklist is free to use and distribute with attribution.*
